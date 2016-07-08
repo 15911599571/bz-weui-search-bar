@@ -1,4 +1,4 @@
-# bz-demo
+# bz-weui-search-bar
 
 > some oauth2 button with vue.js base on semantic ui
 
