@@ -1,6 +1,3 @@
-<style lang=less>
-</style>
-
 <template>
   <div  v-bind:class="{ 'weui_search_focusing': is_focus || search_key}" class="weui_search_bar">
     <form v-on:submit.prevent="call" class="weui_search_outer">
