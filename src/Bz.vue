@@ -21,8 +21,6 @@
       search: {
         required: true
       },
-      focus: {
-      },
       cancel: {
       }
     },
