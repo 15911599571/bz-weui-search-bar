@@ -1,7 +1,7 @@
 {
-  "name": "bz-base",
+  "name": "bz-weui-search-bar",
   "version": "2.0.0",
-  "description": "bz-base",
+  "description": "bz-weui-search-bar",
   "main": "dist/main.js",
   "keywords": [
     "vue",
@@ -11,12 +11,12 @@
   "author": "bigzhu <vermiliondun@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bigzhu/bz-base.git"
+    "url": "git+https://github.com/bigzhu/bz-weui-search-bar.git"
   },
   "bugs": {
-    "url": "https://github.com/bigzhu/bz-base/issues"
+    "url": "https://github.com/bigzhu/bz-weui-search-bar/issues"
   },
-  "homepage": "https://github.com/bigzhu/bz-base#readme",
+  "homepage": "https://github.com/bigzhu/bz-weui-search-bar#readme",
   "files": [
     "dist"
   ],
