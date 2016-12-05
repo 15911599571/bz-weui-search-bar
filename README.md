@@ -1,6 +1,6 @@
-# bz-base
+# bz-weui-search-bar
 
-> bz-base
+> bz-weui-search-bar
 
 ## Build Setup
 
